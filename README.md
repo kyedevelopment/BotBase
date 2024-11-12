@@ -1,6 +1,6 @@
 # Discord Bot Base
 
-Welcome to the **Discord Bot Base** repository! This is a JavaScript-based starter template for creating your own Discord bot, built to be easy to use and expand upon. Feel free to clone, fork, or modify it to fit your needs!
+Welcome to the **Discord Bot Base** repository! This is a JavaScript-based starter template I use for creating a Discord bot, built to be easy to use and expand upon. Feel free to clone, fork, or modify it to fit your needs!
 
 ## Features
 
